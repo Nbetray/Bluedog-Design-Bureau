@@ -1,5 +1,0 @@
-@PART[bluedog*,Bluedog*]:HAS[@MODULE[ModuleEngines*],!PLUME[*]]:NEEDS[zRealPlume]:Final
-{
-	@title ^= :^:-- NO RealPlume -- :
-	@category = Control
-}
